@@ -1,1 +1,1 @@
-cp ../dotfiles/.tmux.* ~/
+cp dotfiles/.tmux.* ~/
