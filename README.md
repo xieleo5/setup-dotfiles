@@ -10,7 +10,7 @@ chsh -s $(which zsh)
 
 ```bash
 sh scripts/zsh_init.sh
-sh scripts/zsh_plugins.sh
+sh scripts/zsh_plugin.sh
 ```
 
 ## Run vim init
