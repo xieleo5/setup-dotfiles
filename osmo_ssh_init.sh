@@ -29,3 +29,6 @@ rm /tmp/miniconda.sh
 sh ./scripts/zsh_init.sh
 sh ./scripts/zsh_plugin.sh
 sh ./scripts/git_config.sh
+
+echo "HISTFILE=$MY_HOME/.zsh_history" >> ~/.zshrc
+echo "Updated HISTFILE in ~/.zshrc to: $MY_HOME/.zsh_history"
